@@ -72,3 +72,10 @@ A curated list of awesome open-source repositories of big companies.
 [skyline](https://github.com/etsy/skyline) - Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics, without the need to configure a model/thresholds for each one, as you might do with Nagios.
 
 [statsd](https://github.com/etsy/statsd) - Simple daemon for easy stats aggregation
+
+##Airbnb
+[AirFlow](https://github.com/airbnb/airflow) - AirFlow is a system to programmatically author, schedule and monitor data pipelines
+
+[Aerosolve](https://github.com/airbnb/aerosolve) - A machine learning library designed from the ground up to be human friendly
+
+[Airpal](https://github.com/airbnb/airpal) - Airpal is a web-based, query execution tool which leverages Facebook's PrestoDB to make authoring queries and retrieving results simple for users
