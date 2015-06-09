@@ -68,7 +68,7 @@ A curated list of awesome open-source repositories of big companies.
 ##Path
 [FastImageCache](https://github.com/path/FastImageCache) - iOS library for quickly displaying images while scrolling
 
-##etsy
+##Etsy
 [skyline](https://github.com/etsy/skyline) - Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics, without the need to configure a model/thresholds for each one, as you might do with Nagios.
 
 [statsd](https://github.com/etsy/statsd) - Simple daemon for easy stats aggregation
