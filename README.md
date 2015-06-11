@@ -22,6 +22,8 @@ A curated list of awesome open-source repositories of big companies.
 
 ##Facebook
 
+[react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces
+
 [react-native](https://github.com/facebook/react-native) - React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React
 
 [tornado](https://github.com/facebook/tornado) - Tornado is an open source version of the scalable, non-blocking web server and tools that power FriendFeed.
