@@ -18,6 +18,8 @@ A curated list of awesome open-source repositories of big companies.
 
 ##Google
 
+[protobuf](https://github.com/google/protobuf) - Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data
+
 [lmctfy](https://github.com/google/lmctfy) - lmctfy is the open source version of Google’s container stack, which provides Linux application containers.
 
 ##Facebook
