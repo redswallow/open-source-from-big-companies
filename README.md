@@ -22,6 +22,8 @@ A curated list of awesome open-source repositories of big companies.
 
 ##Facebook
 
+[react-native](https://github.com/facebook/react-native) - React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React
+
 [tornado](https://github.com/facebook/tornado) - Tornado is an open source version of the scalable, non-blocking web server and tools that power FriendFeed.
 
 [Phabricator](https://github.com/facebook/phabricator) - Phabricator is a suite of web applications that help software companies communicate about software effectively(code review). It was created at Facebook. Phabricator is also used at many other companies such as Airtime, Asana, Dropbox, deviantART, MemSQL, Path, Quora, and more.
