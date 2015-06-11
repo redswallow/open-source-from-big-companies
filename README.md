@@ -42,6 +42,8 @@ A curated list of awesome open-source repositories of big companies.
 
 [folly](https://github.com/facebook/folly) - Folly is an open-source C++ library developed and used at Facebook
 
+[infer](https://github.com/facebook/infer) - Infer is a static analysis tool for Java, Objective-C and C, written in OCaml
+
 ##OpenStack
 
 [Nova](https://github.com/openstack/nova) - OpenStack Compute (Nova)
