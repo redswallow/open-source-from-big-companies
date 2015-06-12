@@ -9,6 +9,8 @@ A curated list of awesome open-source repositories of big companies.
 
 [White Elephant](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
 
+[pinot](https://github.com/linkedin/pinot) - Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency. It can ingest data from offline data sources (such as Hadoop and flat files) as well as online sources (such as Kafka). Pinot is designed to scale horizontally.
+
 ##Twitter
 [bootstrap](https://github.com/twitter/bootstrap) - Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
