@@ -24,6 +24,8 @@ A curated list of awesome open-source repositories of big companies.
 
 [lmctfy](https://github.com/google/lmctfy) - lmctfy is the open source version of Google’s container stack, which provides Linux application containers.
 
+[kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) - Kubernetes is an open source system for managing containerized applications across multiple hosts, providing basic mechanisms for deployment, maintenance, and scaling of applications.
+
 ##Facebook
 
 [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces
