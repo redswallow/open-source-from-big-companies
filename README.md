@@ -91,3 +91,6 @@ A curated list of awesome open-source repositories of big companies.
 [Aerosolve](https://github.com/airbnb/aerosolve) - A machine learning library designed from the ground up to be human friendly
 
 [Airpal](https://github.com/airbnb/airpal) - Airpal is a web-based, query execution tool which leverages Facebook's PrestoDB to make authoring queries and retrieving results simple for users
+
+##Adobe
+[Brackets](https://github.com/adobe/brackets) - Brackets is a modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript
