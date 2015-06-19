@@ -42,6 +42,8 @@ A curated list of awesome open-source repositories of big companies.
 
 [rocksdb](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage
 
+[Scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers
+
 [The HipHop Virtual Machine](https://www.facebook.com/note.php?note_id=10150415177928920)
 
 [folly](https://github.com/facebook/folly) - Folly is an open-source C++ library developed and used at Facebook
