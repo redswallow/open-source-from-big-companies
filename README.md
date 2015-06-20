@@ -96,3 +96,6 @@ A curated list of awesome open-source repositories of big companies.
 
 ##Adobe
 [Brackets](https://github.com/adobe/brackets) - Brackets is a modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript
+
+##Yahoo
+[Pure](https://github.com/yahoo/pure) - A set of small, responsive CSS modules that you can use in every web project
