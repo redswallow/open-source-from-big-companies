@@ -1,5 +1,5 @@
-# awesome-open-source
-A curated list of awesome open-source repositories of big companies.
+# open-source-from-big-companies
+A curated list of awesome open-source repositories from big companies.
 
 ##GitHub
 [hubot](https://github.com/github/hubot) - A customizable, kegerator-powered life embetterment robot.
