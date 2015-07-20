@@ -18,6 +18,8 @@ A curated list of awesome open-source repositories from big companies.
 
 [bower](https://github.com/twitter/bower) - A package manager for the web
 
+[finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
+
 ##Google
 
 [protobuf](https://github.com/google/protobuf) - Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data
