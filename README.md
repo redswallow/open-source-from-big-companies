@@ -104,3 +104,6 @@ A curated list of awesome open-source repositories from big companies.
 
 ##Netflix
 [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable
+
+##elastic
+[logstash](https://github.com/elastic/logstash) - Logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). If you store them in Elasticsearch, you can view and analyze them with Kibana
