@@ -28,6 +28,8 @@ A curated list of awesome open-source repositories from big companies.
 
 [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) - Kubernetes is an open source system for managing containerized applications across multiple hosts, providing basic mechanisms for deployment, maintenance, and scaling of applications.
 
+[guava](https://github.com/google/guava) - The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
+
 ##Facebook
 
 [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces
