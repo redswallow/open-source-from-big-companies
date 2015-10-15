@@ -54,6 +54,8 @@ A curated list of awesome open-source repositories from big companies.
 
 [infer](https://github.com/facebook/infer) - Infer is a static analysis tool for Java, Objective-C and C, written in OCaml
 
+[GraphQL](https://github.com/facebook/graphql) - A query language created by Facebook for describing data requirements on complex application data models
+
 ##OpenStack
 
 [Nova](https://github.com/openstack/nova) - OpenStack Compute (Nova)
