@@ -118,3 +118,6 @@ A curated list of awesome open-source repositories from big companies.
 
 ##Dropbox
 [Pyston](https://github.com/dropbox/pyston) - An open-source Python implementation using JIT techniques
+
+##Microsoft
+[vscode](https://github.com/Microsoft/vscode) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle
