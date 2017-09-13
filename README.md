@@ -11,6 +11,8 @@ A curated list of awesome open-source repositories from big companies.
 
 [pinot](https://github.com/linkedin/pinot) - Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency. It can ingest data from offline data sources (such as Hadoop and flat files) as well as online sources (such as Kafka). Pinot is designed to scale horizontally.
 
+[Voldemort](https://github.com/voldemort/voldemort) - Voldemort is a distributed key-value storage system. An open source clone of Amazon's Dynamo.
+
 ## Twitter
 [bootstrap](https://github.com/twitter/bootstrap) - Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
