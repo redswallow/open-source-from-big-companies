@@ -34,6 +34,8 @@ A curated list of awesome open-source repositories from big companies.
 
 [tensorflow](https://github.com/tensorflow/tensorflow) - Open source software library for numerical computation using data flow graphs.
 
+[grpc](https://github.com/grpc/grpc) - A high performance, open-source universal RPC framework.
+
 ## Facebook
 
 [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces
