@@ -80,6 +80,10 @@ A curated list of awesome open-source repositories from big companies.
 
 [dubbo](https://github.com/alibaba/dubbo) - Dubbo is a high-performance, java based, open source RPC framework
 
+## Tencent
+
+[MSEC](https://github.com/Tencent/MSEC) - Mass Service Engine in Cluster(MSEC) is opened source by QQ team from Tencent. It is a backend DEV &OPS engine, including RPC,name finding,load balance,monitoring,release and capacity management.
+
 ## Spotify
 [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 
