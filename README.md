@@ -78,6 +78,8 @@ A curated list of awesome open-source repositories from big companies.
 
 [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 
+[dubbo](https://github.com/alibaba/dubbo) - Dubbo is a high-performance, java based, open source RPC framework
+
 ## Spotify
 [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 
